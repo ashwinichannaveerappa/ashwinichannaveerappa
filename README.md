@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @ashwinichannaveerappa
-- 👀 I’m interested in test automation
-- 🌱 I’m currently learning Dart and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hello there! I'm Ashwini, a Senior Software Automation Engineer. My professional expertise revolves around testing(app and webservices), test architecture, test automation and TestOps.
 
-<!---
-ashwinichannaveerappa/ashwinichannaveerappa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Beyond my work, I'm an avid open source enthusiast, always on the lookout for exciting projects to contribute to. Exploring new and intriguing technologies is my passion, and I'm constantly striving to enhance my knowledge of software testing.
